@@ -1,0 +1,40 @@
+# 注册
+http://10.135.116.43:8000/signupsignin/signup/?account=19&password=1232131
+
+#登录
+http://10.135.116.43:8000/signupsignin/signin/?login_account=19&login_password=1232131
+
+# 推荐页面
+http://10.135.116.43:8000/articles/article/?user_id=3
+
+
+http://10.135.116.43:8000/articles/likes/?user_id=3&article_id=3
+
+
+http://10.135.116.43:8000/articles/singlearticle/?article_id=5
+
+
+http://10.135.116.43:8000/articles/search/?keywords=or
+
+
+http://10.135.116.43:8000/score/sentence/?sentence_cate=0
+
+http://10.135.116.43:8000/score/analysis
+
+
+http://10.135.116.43:8000/score/analysis/?url=http://10.135.116.43:8080/create_audios/1.mp3
+
+http://10.135.116.43:8000/userfunction/history/?user_id=1
+
+
+http://10.135.116.43:8000/userfunction/checkin/?user_id=4&date_check_in=2024-1-10
+
+
+http://10.135.116.43:8000/userfunction/activity_ranking
+
+http://10.135.116.43:8000/userfunction/honor_rank/?user_id=1&year=2024
+
+http://10.135.116.43:8000/userfunction/rake_user_info/?user_id=21
+
+
+# http://10.135.116.43:8000/articles/pictureclassify
